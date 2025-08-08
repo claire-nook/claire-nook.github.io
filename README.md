@@ -6,5 +6,3 @@ Here you'll find:
 - 📂 Project demos
 - 📸 Handy tools
 - 💭 Thoughts, drafts, and ideas
-
-Deployed at: https://claire-nook.github.io
