@@ -1,2 +1,10 @@
 # claire-nook.github.io
-A digital nook for demos, thoughts, and experiments since 2025.
+
+This repository hosts my personal GitHub Pages site.  
+Here you'll find:
+
+- 📂 Project demos
+- 📸 Handy tools
+- 💭 Thoughts, drafts, and ideas
+
+Deployed at: https://claire-nook.github.io
